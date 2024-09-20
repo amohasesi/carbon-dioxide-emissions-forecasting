@@ -4,8 +4,7 @@ This project analyzes country-specific environmental and economic data from the 
 
 ## Key Feautures 
 
-- Feature Selection: Applies random forest-based feature selection to identify the four most predictive features of countries’
-carbon dioxide emissions
+- Feature Selection: Applies random forest-based feature selection to identify the four most predictive features of countries’ carbon dioxide emissions
 - Model Building: Develops a KNN classification model
 - Visualization: Plots confusion matrices and decision regions to evaluate model performance
  
