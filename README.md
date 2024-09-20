@@ -11,7 +11,7 @@ This project analyzes country-specific environmental and economic data from the 
 ## Contents
 
 - data/: Folder containing the World Bank datasets
-- carbon_dioxide_emissions_forecasting.ipynb: Jupyter notebook containing all code for analysis, model building, and visualization
+- carbon_dioxide_emissions_forecasting.ipynb: Jupyter notebook containing all code for analysis
 
 
 
