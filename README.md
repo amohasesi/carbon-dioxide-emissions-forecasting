@@ -1,5 +1,7 @@
 # Carbon Dioxide Emissions Forecasting
 
+## Overview
+
 This project analyzes country-specific environmental and economic data from the World Bank in Python to identify key features predictive of countries’ carbon dioxide emissions and builds a k-nearest neighbors (KNN) classification model to predict countries’ carbon dioxide emissions with high accuracy.
 
 ## Key Feautures 
